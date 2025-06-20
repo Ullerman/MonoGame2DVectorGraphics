@@ -1,4 +1,3 @@
-Here’s a Markdown (.md) documentation file for your VectorGraphics library:
 
 ⸻
 
